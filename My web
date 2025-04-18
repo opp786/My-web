@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Buy My PDF</title>
+</head>
+<body>
+  <h1>My Awesome PDF</h1>
+  <p>Price: ₹99</p>
+  
+  <h2>Pay via UPI</h2>
+  <p>Scan the QR code or use UPI ID: <strong>yourupi@bank</strong></p>
+  <img src="qr.png" alt="UPI QR" width="200">
+
+  <h3>After Payment:</h3>
+  <p>Submit this form to receive your PDF:</p>
+  <a href="https://forms.gle/your-google-form-link" target="_blank">Submit Payment Info</a>
+
+  <br><br>
+  <small>You will get your PDF by email within 24 hours.</small>
+</body>
+</html>
